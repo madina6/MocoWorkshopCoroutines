@@ -1,2 +1,5 @@
-# MocoWorkshopCoroutines
-Welche Bedeutung spielen Coroutines für eine Timer App
+Mobile Computing 
+Coroutines Workshop
+
+Hier wird gezeigt Welche Bedeutung Coroutines für eine Timer App spielen.
+
